@@ -4,3 +4,4 @@ scripts
 config
 logs
 hooks
+refs
